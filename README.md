@@ -26,8 +26,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: Ann Blessy Philips
-Registeration Number : 212222040008
+Developed by: Jai Sriram S
+Registeration Number : 212222040057
 */
 ```
 
